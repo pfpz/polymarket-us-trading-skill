@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+.env*
+approval*.json
+forecast.json
+forecasts.json
+limits.json
+*.sqlite3*
+HALT
